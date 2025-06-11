@@ -4,7 +4,7 @@ import gradio as gr
 import random
 import google.generativeai as genai
 
-GEMINI_API_KEY = "AIzaSyBDJ3nvuCbvNA0e3nuri2Fjt7V5Xfis4Zs"
+GEMINI_API_KEY = "Hide"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # --- Motivational Quote Scraper ---
